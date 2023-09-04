@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/grazie1332.github.io/grazie-1332/static/css/main.99e4cf39.css",
+    "main.js": "/grazie1332.github.io/grazie-1332/static/js/main.200974f9.js",
+    "index.html": "/grazie1332.github.io/grazie-1332/index.html",
+    "main.99e4cf39.css.map": "/grazie1332.github.io/grazie-1332/static/css/main.99e4cf39.css.map",
+    "main.200974f9.js.map": "/grazie1332.github.io/grazie-1332/static/js/main.200974f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99e4cf39.css",
+    "static/js/main.200974f9.js"
+  ]
+}
