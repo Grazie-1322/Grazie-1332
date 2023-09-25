@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "./Header.scss";
 import { Link } from "react-router-dom";
-import GrazieLogo from "./Assets/Grazie1322Logo.png";
+import GrazieLogo from "../Assets/Grazie1322Logo.png";
 import { FaHome, FaInfoCircle, FaShoppingCart, FaEnvelope } from "react-icons/fa";
 
 const Headermain = () => {
