@@ -4,6 +4,7 @@ import { BrowserRouter as Router, useLocation } from "react-router-dom";
 import withRouter from "../Router/withRouter";
 import AppRoutes from "./Routes";
 import Headermain from "../Header/Header.js";
+import Footermain from "../Footer/Footer.js";
 import "./App.css";
 
 function _ScrollToTop(props) {
@@ -21,6 +22,7 @@ export default function App() {
             <ScrollToTop>
                 <Headermain />
                 <AppRoutes />
+                <Footermain />
             </ScrollToTop>
         </Router>
     );
